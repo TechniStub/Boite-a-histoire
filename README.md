@@ -65,12 +65,24 @@ Celà vous permettra de surveiller d'éventuel problème lors du premier démarr
 
 Si vous souhaitez personnaliser certains textes d'impression contenue directement dans ce programme (messages, nom de la boite à histoires, nom de la bibliothèque, de la signature) gardez à l'esprit qui vous faudra prendre en compte les carractères accentués directement :
       remplacez alors les carractères accentués :  
-      é par \x82    è par \x8A    ê par \x88    ë par \x89    à par \x85
-      ä par \x84    â par \x83    ù par \x97    û par \x96    ü par \x81
-      ô par \x93    ö par \x94    î par \x8C    ï par \x8B    ç par \x87
+      é par \x82
+      è par \x8A
+      ê par \x88
+      ë par \x89
+      à par \x85
+      ä par \x84
+      â par \x83
+      ù par \x97
+      û par \x96
+      ü par \x81
+      ô par \x93
+      ö par \x94
+      î par \x8C
+      ï par \x8B
+      ç par \x87
 
 
-Belles réalisations à tous
+Belles réalisations à tous.
 Pour le TechniStub, Christophe
 
 PS : si vous constatez des erreurs, merci de nous le signaler.
