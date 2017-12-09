@@ -19,7 +19,8 @@ La Petite boite à histoires
 
 Ce programme est placé sous licence Creative Commons NC-BY-SA : https://creativecommons.org/licenses/by-nc-sa/2.0/fr/
 
-Il faut le matériel suivant :
+Il vous faudra le matériel suivant :
+Nous avons privilégié le distributeur Semageek pour sa rapidité et sa disponibilité, ainsi que pour la qualité de son accueil téléphonique et de son écoute à nos demandes. Merco à Olivier de Semageek.
   - 1 carte Arduino Mega2560R3 officiel : https://boutique.semageek.com/fr/4-arduino-mega-2560-r3-8058333490083.html 
   - 1 shield Mémoire DAtalogger Adafruit v2 (lecteur de carte SD + horloge RTC) : https://boutique.semageek.com/fr/547-data-logging-shield-pour-arduino-adafruit.html
   - 1 résistance de 10kOhm : https://boutique.semageek.com/fr/137-10-x-r%C3%A9sistances-025w-10kohms.html?search_query=resistance&results=164
@@ -31,6 +32,13 @@ Il faut le matériel suivant :
   quelques rouleaux de papier pour imprimante thermique de largeur 2,25" en rouleau de 50ft (15 metres) : https://boutique.semageek.com/fr/692-rouleau-de-papier-thermique-largeur-225-longueur-50-ft.html
   - 1 bloc secteur 5V 2,5A (ceux pour raspberry Pi conviennent parfaitement, il faudra juste couper la fiche) : https://boutique.semageek.com/fr/723-alimentation-raspberry-pi3-5v-25a-micro-usb.html
   - 1 boitier pour tout y mettre : le fichier de découpe laser est joint dans ce Github. Nous avons réalisée la découpe sur une Epilog Helix60
+
+Le fichier de découpe laser au format .SVG, il est optimisé (pas de double passage du laser) et prévu pour du contreplaqué d'épaisseur 5mm.
+Les traits de découpes sont en 0.01mm d'épaisseur, et les traits de gravures sont à partir de 0.2mm (mais comme il y a juste des cercles pour créer un léger renfoncement pour les têtes des vis les cercles noirs seront en gravure).
+Nous avons utilisé des vis à têtes fraisées PZ1 de diamètre 3mm par longueur 16mm.
+La jonctions des différentes faces est faites en utilisant des tasseaux de sapin de 13*13mm (4 pièces de 114mm de long, 4 pièces de 190mm de long, et 4 pièces de 64mm de long).
+Les traits de découpes étant des lignes très fines elles ne sont pas visible dans l'apperçu Github, mais bien présent.
+
 
 Ce programme utilise les bibliothèque suivante :
   - Adafruit Thermal Printer Library : https://github.com/adafruit/Adafruit-Thermal-Printer-Library ecrite par Limor Fried/Ladyada pour Adafruit Industries, avec la contribution de la comunauté open source. Basé sur la librairie Thermique originale de bildr.org sous licence MIT, all text above must be included in any redistribution.
