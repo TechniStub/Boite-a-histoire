@@ -29,7 +29,7 @@ Nous avons privilégié le distributeur Semageek pour sa rapidité et sa disponi
   - 1 carte SD de maxi 32Go (nous avons utilisé une version 4Go) : https://boutique.semageek.com/fr/674-carte-micro-sd-4-go-avec-adaptateur-sd.html?search_query=micro+sd&results=330 
   - 1 bouton poussoir avec voyant : https://boutique.semageek.com/fr/684-bouton-poussoir-chrome-avec-anneau-led-rouge-16mm.html?search_query=bouton+poussoir+metal&results=201     Ce bouton poussoir offre l'avantage d'avoir un voyant intégré pouvant être alimenté directement en 5V.
   - 1 imprimante Thermique Adafruit : https://boutique.semageek.com/fr/691-mini-imprimante-thermique.html?search_query=thermique&results=26
-  quelques rouleaux de papier pour imprimante thermique de largeur 2,25" en rouleau de 50ft (15 metres) : https://boutique.semageek.com/fr/692-rouleau-de-papier-thermique-largeur-225-longueur-50-ft.html
+  - quelques rouleaux de papier pour imprimante thermique de largeur 2,25" en rouleau de 50ft (15 metres) : https://boutique.semageek.com/fr/692-rouleau-de-papier-thermique-largeur-225-longueur-50-ft.html
   - 1 bloc secteur 5V 2,5A (ceux pour raspberry Pi conviennent parfaitement, il faudra juste couper la fiche) : https://boutique.semageek.com/fr/723-alimentation-raspberry-pi3-5v-25a-micro-usb.html
   - 1 boitier pour tout y mettre : le fichier de découpe laser est joint dans ce Github. Nous avons réalisée la découpe sur une Epilog Helix60
 
@@ -71,25 +71,27 @@ Avant le transfert vers la carte arduino (avec le module shield installé et cab
 Celà vous permettra de surveiller d'éventuel problème lors du premier démarrage du votre boite à histoires.
 
 Si vous souhaitez personnaliser certains textes d'impression contenue directement dans ce programme (messages, nom de la boite à histoires, nom de la bibliothèque, de la signature) gardez à l'esprit qui vous faudra prendre en compte les carractères accentués directement :
-      remplacez alors les carractères accentués :  
-      é par \x82
-      è par \x8A
-      ê par \x88
-      ë par \x89
-      à par \x85
-      ä par \x84
-      â par \x83
-      ù par \x97
-      û par \x96
-      ü par \x81
-      ô par \x93
-      ö par \x94
-      î par \x8C
-      ï par \x8B
-      ç par \x87
+
+remplacez alors les carractères accentués :  
+- é par \x82
+- è par \x8A
+- ê par \x88
+- ë par \x89
+- à par \x85
+- ä par \x84
+- â par \x83
+- ù par \x97
+- û par \x96
+- ü par \x81
+- ô par \x93
+- ö par \x94
+- î par \x8C
+- ï par \x8B
+- ç par \x87
 
 
 Belles réalisations à tous.
 Pour le TechniStub, Christophe
-By TechniStub ©2017
+- By TechniStub ©2017
+
 PS : si vous constatez des erreurs, merci de nous le signaler.
