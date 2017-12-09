@@ -15,7 +15,7 @@ La Petite boite à histoires
       Vincent Sahler, Bertrand Sahler, Guillaume Strub, Christophe de Sabbata (mail : christophe(at)technistub.org )
  Commenté par Christophe de Sabbata (merci de votre indulgence quand aux fautes orthographes et de grammaires pouvant subsister
 
- Réalisées dans le cadre d'un projet de mise en place de boites à histoires dans les 7 bibliothèque de l'agglomération de Mulhouse, elles ont reçu de nom de "Textes en boîte"
+ Réalisées dans le cadre d'un projet de mise en place de boites à histoires dans les 7 bibliothèque de l'agglomération de Mulhouse, elles ont reçu le nom de "Textes en boîte"
 
 Ce programme est placé sous licence Creative Commons NC-BY-SA : https://creativecommons.org/licenses/by-nc-sa/2.0/fr/
 
@@ -91,6 +91,7 @@ remplacez alors les carractères accentués :
 
 
 Belles réalisations à tous.
+
 Pour le TechniStub, Christophe
 - By TechniStub ©2017
 
