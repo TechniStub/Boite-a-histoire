@@ -23,7 +23,7 @@ Il faut le matériel suivant :
   - 1 carte Arduino Mega2560R3 officiel : https://boutique.semageek.com/fr/4-arduino-mega-2560-r3-8058333490083.html 
   - 1 shield Mémoire DAtalogger Adafruit v2 (lecteur de carte SD + horloge RTC) : https://boutique.semageek.com/fr/547-data-logging-shield-pour-arduino-adafruit.html
   - 1 résistance de 10kOhm : https://boutique.semageek.com/fr/137-10-x-r%C3%A9sistances-025w-10kohms.html?search_query=resistance&results=164
-  un peu de fil electrique : https://boutique.semageek.com/fr/26-kit-de-70-wires-pour-prototypage.html?search_query=fil&results=137
+  - un peu de fil electrique : https://boutique.semageek.com/fr/26-kit-de-70-wires-pour-prototypage.html?search_query=fil&results=137
   - 1 Pile type CR1220 : https://boutique.semageek.com/fr/464-pile-bouton-cr1220.html?search_query=cr1220&results=16
   - 1 carte SD de maxi 32Go (nous avons utilisé une version 4Go) : https://boutique.semageek.com/fr/674-carte-micro-sd-4-go-avec-adaptateur-sd.html?search_query=micro+sd&results=330 
   - 1 bouton poussoir avec voyant : https://boutique.semageek.com/fr/684-bouton-poussoir-chrome-avec-anneau-led-rouge-16mm.html?search_query=bouton+poussoir+metal&results=201     Ce bouton poussoir offre l'avantage d'avoir un voyant intégré pouvant être alimenté directement en 5V.
@@ -83,5 +83,5 @@ Si vous souhaitez personnaliser certains textes d'impression contenue directemen
 
 Belles réalisations à tous.
 Pour le TechniStub, Christophe
-
+By TechniStub ©2017
 PS : si vous constatez des erreurs, merci de nous le signaler.
