@@ -31,7 +31,7 @@ Il vous faudra le matériel suivant :
   - quelques rouleaux de papier pour imprimante thermique de largeur 2,25" en rouleau de 50ft (15 metres) : https://boutique.semageek.com/fr/692-rouleau-de-papier-thermique-largeur-225-longueur-50-ft.html
   - 1 bloc secteur 5V 2,5A (ceux pour raspberry Pi conviennent parfaitement, il faudra juste couper la fiche) : https://boutique.semageek.com/fr/723-alimentation-raspberry-pi3-5v-25a-micro-usb.html
 
-Nous avons privilégié le distributeur Semageek pour sa rapidité et sa disponibilité, ainsi que pour la qualité de son accueil téléphonique et de son écoute à nos demandes. Merci à Olivier de Semageek.
+Nous avons privilégié le distributeur **Semageek** https://boutique.semageek.com/fr/ pour sa rapidité et sa disponibilité, ainsi que pour la qualité de son accueil téléphonique et de son écoute à nos demandes. Merci à Olivier de Semageek.
 
 - 1 boitier pour tout y mettre : le fichier de découpe laser est joint dans ce Github. Nous avons réalisée la découpe sur une Epilog Helix60
 
